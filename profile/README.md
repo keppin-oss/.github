@@ -29,6 +29,14 @@ by Keppin-OSS CNG.
 
 ---
 
+### [Enterprise TLS](https://github.com/keppin-oss/enterprise-tls)
+
+TLS infrastructure for enterprise-managed application deployments.
+
+**Status:** Available — `v0.1.0`
+
+---
+
 ### Machine Identity
 
 Machine-bound identity primitives for applications and services.
@@ -43,13 +51,6 @@ TLS infrastructure for secure local application communication.
 
 **Status:** Coming soon
 
----
-
-### Enterprise TLS
-
-TLS infrastructure for enterprise-managed application deployments.
-
-**Status:** Coming soon
 
 ## Design principles
 
