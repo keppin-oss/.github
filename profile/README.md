@@ -14,7 +14,7 @@ Windows CNG/KSP machine-key custody for Go applications.
 Use machine-scoped, non-exportable private keys through Go's standard
 `crypto.Signer` model without exporting private key material.
 
-**Status:** Available — `v0.1.1`
+**Status:** Available — `v0.1.2`
 
 ---
 
@@ -25,7 +25,7 @@ OpenZiti integration for Windows CNG/KSP-backed non-exportable machine identitie
 Connects OpenZiti's identity engine and native enrollment flow to keys managed
 by Keppin-OSS CNG.
 
-**Status:** Available — `v0.1.0`
+**Status:** Available — `v0.1.2`
 
 ---
 
@@ -33,23 +33,23 @@ by Keppin-OSS CNG.
 
 TLS infrastructure for enterprise-managed application deployments.
 
+**Status:** Available — `v0.1.1`
+
+---
+
+### [Machine Identity](https://github.com/keppin-oss/machine-identity)
+
+Machine-bound identity primitives for applications and services.
+
 **Status:** Available — `v0.1.0`
 
 ---
 
-### Machine Identity
-
-Machine-bound identity primitives for applications and services.
-
-**Status:** Coming soon
-
----
-
-### Local TLS
+### [Local TLS](https://github.com/keppin-oss/local-tls)
 
 TLS infrastructure for secure local application communication.
 
-**Status:** Coming soon
+**Status:** Available — `v0.1.1`
 
 
 ## Design principles
